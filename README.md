@@ -5,7 +5,7 @@ Welcome to the **Snake and Apple Game**! This is a classic implementation of the
 ---
 
 ## 📷 Gameplay GIF:
-![Gameplay GIF]([./path_to_your_gif.gif](https://github.com/Ericazzzzzz/Snake-and-Apple-Game/blob/main/game_preview.gif))
+![Gameplay GIF](https://github.com/Ericazzzzzz/Snake-and-Apple-Game/blob/main/game_preview.gif)
 
 ---
 

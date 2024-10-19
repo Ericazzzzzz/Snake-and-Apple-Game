@@ -42,7 +42,7 @@ I used the following tool to convert the Python file to an executable:
 [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/)
 
 ### Steps to Run the Game:
-1. **Download the executable file** from the repository.
+1. **Download the `main.py` file** from the repository.
 2. **Run the `.exe` file** directly on your Windows system.
    - No need to install Python or Pygame.
 3. Enjoy the game!
